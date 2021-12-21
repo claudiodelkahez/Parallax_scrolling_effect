@@ -1,2 +1,2 @@
-# Parallax_scrolling_effect-
+# Parallax scrolling effect
 Parallax Scrolling Effect 
